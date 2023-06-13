@@ -9,7 +9,7 @@
   </div>
   <div id="languages">
     <p>I am experienced in the languages listed below:</p>
-    <img src="https://skillicons.dev/icons?i=,cpp,cs,c,,py,vim,linux,bash,matlab,git,arduino,dotnet,html,css&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=godot,cpp,cs,c,r,py,vim,linux,bash,matlab,git,arduino,dotnet,html,css&perline=5"/>
   </div>
   <hr width=300>
   <div id="stats">
@@ -17,7 +17,7 @@
   </div>
   <div id="languages">
     <p>I am interested in the following subjects:</p>
-    <img src="https://skillicons.dev/icons?i=mysql,godot,js,java,kotlin,rust,r,php"/>
+    <img src="https://skillicons.dev/icons?i=mysql,godot,js,java,kotlin,rust,php"/>
   </div>
   <div>
     <h2> Feel free to contact me on Discord!</h2>
