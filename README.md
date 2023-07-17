@@ -8,19 +8,24 @@
     </a>
   </div>
   <div id="languages">
-    <p>I am experienced in the languages listed below:</p>
-    <img src="https://skillicons.dev/icons?i=godot,cpp,cs,c,r,py,vim,linux,bash,matlab,git,arduino,dotnet,html,css&perline=5"/>
+    <p>I am experienced in the languages/skills listed below:</p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=godot,cpp,cs,c,r,py,vim,linux,bash,matlab,git,arduino,dotnet,html,css&perline=5"/>
+    </a>
   </div>
   <hr width=300>
   <div id="stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37743&layout=donut&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37743&layout=donut&theme=tokyonight" />
   </div>
   <div id="languages">
     <p>I am interested in the following subjects:</p>
-    <img src="https://skillicons.dev/icons?i=mysql,godot,js,java,kotlin,rust,php"/>
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=mysql,godot,js,java,kotlin,rust,php"/>
+    </a>
   </div>
   <div>
     <h2> Feel free to contact me on Discord!</h2>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&labelColor=white&message=37743&color=gray"/>
+    <a href="#">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&labelColor=white&message=37743&color=gray"/>
+    </a>
   </div>
 </div>
