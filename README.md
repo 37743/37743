@@ -14,7 +14,9 @@
   </div>
   <hr width=300>
   <div id="stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37743&layout=donut&theme=tokyonight" />
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37743&theme=tokyonight&layout=donut"/>
+      </a>
   </div>
   <div id="languages">
     <p>I am interested in the following subjects:</p>
