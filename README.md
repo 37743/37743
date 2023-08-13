@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello!</h1>
+  <h1>Greetings.</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/37743-yibg">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&labelColor=blue&message=Yousef%20Gomaa&color=gray"/>
