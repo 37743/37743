@@ -18,7 +18,7 @@
   <hr width=300>
   <div id="stats">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37743&theme=tokyonight&layout=donut&hide=jupyter%20notebook"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37743&theme=tokyonight&layout=donut&hide=jupyter%20notebook,html"/>
       </a>
   </div>
   <div id="languages">
