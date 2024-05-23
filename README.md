@@ -12,7 +12,7 @@
   <div id="languages">
     <p>I am experienced in the languages/skills listed below:</p>
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=mysql,cpp,cs,c,r,py,vim,linux,bash,matlab,git,arduino,dotnet,html,css&perline=5"/>
+        <img src="https://skillicons.dev/icons?i=mysql,cpp,cs,c,postgres,r,py,vim,bash,matlab,git,tensorflow,sqlite,pytorch,dotnet,js,html,css,solidity,arduino&perline=5"/>
     </a>
   </div>
   <hr width=300>
@@ -24,7 +24,7 @@
   <div id="languages">
     <p>I am interested in the following subjects:</p>
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=julia,godot,js,java,kotlin,rust,php"/>
+      <img src="https://skillicons.dev/icons?i=julia,godot,linux,java,kotlin,rust,php"/>
     </a>
   </div>
   <div>
