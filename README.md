@@ -12,7 +12,7 @@
   <div id="languages">
     <p>I am experienced in the languages/skills listed below:</p>
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=mysql,cpp,cs,c,postgres,r,py,vim,bash,matlab,git,tensorflow,sqlite,pytorch,dotnet,js,html,css,solidity,arduino&perline=5"/>
+        <img src="https://skillicons.dev/icons?i=mysql,cpp,cs,c,postgres,r,py,vim,bash,matlab,git,tensorflow,sqlite,pytorch,dotnet,js,html,css,solidity,arduino,docker,nodejs,blender,unity,fastapi&perline=5"/>
     </a>
   </div>
   <hr width=300>
@@ -28,7 +28,7 @@
     </a>
   </div>
   <div>
-    <h2>Feel free to contact me on Discord!</h2>
+    <h2>Feel free to contact me on Discord or LinkedIn!</h2>
     <a href="#">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&labelColor=white&message=37743&color=gray"/>
     </a>
