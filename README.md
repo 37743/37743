@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=37743&style=for-the-badge&color=2774f0&abbreviated=true)
-  
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=37743&style=for-the-badge&color=2774f0&abbreviated=true">
+  </a>
   <h1>Greetings.</h1>
   <div id="languages">
     <p>I am experienced in the languages/skills listed below:</p>
