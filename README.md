@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <h1>Greetings.</h1>
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=37743&color=2774f0&style=for-the-badge)
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=37743&style=for-the-badge&color=2774f0&abbreviated=true)
+  
+  <h1>Greetings.</h1>
   <div id="languages">
     <p>I am experienced in the languages/skills listed below:</p>
     <a href="#">
@@ -21,10 +22,11 @@
       <img src="https://skillicons.dev/icons?i=julia,godot,linux,java,kotlin,rust,php"/>
     </a>
   </div>
+  <hr width=200>
   <div id="pages">
-    <p>Kindly check out my projects' highlights on my portfolio.</p>
+    <p>Kindly check out some of my recent projects' highlights on my portfolio.</p>
     <a href="https://37743.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logoColor=white&color=2774f0" alt="Portfolio">
+      <img src="https://img.shields.io/badge/Click_Here_For_My_Portfolio-white?style=for-the-badge&logoColor=white&color=2774f0" alt="Portfolio">
     </a>
   </div>
   <div>
@@ -36,6 +38,9 @@
       <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=datacamp&label=DataCamp&labelColor=03ef62&logoColor=05192d&textColor=05192d&message=Yousef%20Gomaa&color=gray"/>
     <a href="https://www.kaggle.com/yousefgomaa43">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=kaggle&label=Kaggle&labelColor=blue&logoColor=white&message=Yousef%20Gomaa&color=gray"/>
+    </a>
+    <a href="mailto:yousef.ibrahim.gomaa@gmail.com">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&labelColor=red&logoColor=white&message=Yousef%20Mabrouk&color=gray"/>
     </a>
   </div>
   </div>
