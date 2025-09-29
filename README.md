@@ -24,7 +24,7 @@
   </div>
   <hr width=200>
   <div id="pages">
-    <p>Kindly check out some of my recent projects' highlights on my portfolio.</p>
+    <p>Kindly check out some of my projects' highlights on my portfolio. (outdated)</p>
     <a href="https://37743.github.io/">
       <img src="https://img.shields.io/badge/Click_Here_For_My_Portfolio-white?style=for-the-badge&logoColor=white&color=2774f0" alt="Portfolio">
     </a>
